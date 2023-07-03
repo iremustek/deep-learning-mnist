@@ -2,7 +2,7 @@
 
 This repository contains a deep learning project focused on image classification using the MNIST handwritten digits recognition dataset.
 
-The related notebook can be found [here](https://nbviewer.org/github/iremustek/deep-learning-mnist/blob/main/deep-learning-mnist.ipynb).
+The related notebook can be found [here](https://nbviewer.org/github/iremustek/deep-learning-mnist/blob/main/deep-learning-mnist.ipynb)
 
 ## Dataset 
 - MNIST Dataset
